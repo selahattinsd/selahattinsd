@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 🦾Yazılımdan zaman buldukça, bu alanda geliştirilen teknolojileri araştırıp takip ediyorum. Aynı zamanda bilgilerimi taze tutmak adına projeler inceliyor ve  kendimi geliştirmek adına bu öğrendiklerimi uygulayarak yeni projeler yapıyorum.
 
-[![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)]([profilinizin linki](https://www.instagram.com/selahattinsd/))
+([![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)]([(https://www.instagram.com/selahattinsd/))
