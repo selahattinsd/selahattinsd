@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- %F0%9F%93%AB%20How%20to%20reach%20me%20slhttndmr07%40gmail.com
+📫 How to reach me:<slhttndmr07@gmail.com>
 <a href="https://www.linkedin.com/in/selahattin-demir-634366206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sevim selin özsoy" height="30" width="40" /></a>
 <a href="https://www.instagram.com/selahattinsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#0141" height="30" width="40" /></a>
  
