@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ⌨Yazılıma ilk başladığım zamanlardan bu yana kendime çok şey katmış olsam da hâlâ bilmediğim birçok şey var ve bu konuları araştırmak, öğrenmek uygulayabilmek şu andaki en büyük tutkum ve hevesim.
 
-🦾Yazılımdan zaman buldukça, bu alanda geliştirilen teknolojileri araştırıp takip ediyorum. Aynı zamanda bilgilerimi taze tutmak adına projeler inceliyor ve  kendimi geliştirmek adına bu öğrendiklerimi uygulayarak yeni projeler yapıyorum.
+🦾Yazılımdan zaman buldukça, bu alanda geliştirilen teknolojileri araştırıp takip ediyorum. Aynı zamanda bilgilerimi taze tutmak adına projeler inceliyor ve  kendimi geliştirmek için bu öğrendiklerimi uygulayarak yeni projeler yapıyorum.
 
 
 
