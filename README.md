@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🙋‍♂Merhaba ben Selahattin Demir. Acun Medya Akademi Genişletilmiş Yazılım Uzmanlığı mezunuyum. Her ne kadar Fullstack bir eğtim almış olsak da Backend ve Database alanlarında kendimi geliştirmekteyim. Öğrenmeye açığım ve yeni taknolojileri yakından takip ediyorum.
+🙋‍♂Merhaba, ben Selahattin Demir. Acun Medya Akademi'de Genişletilmiş Yazılım Uzmanlığı alanında mezun oldum. Eğitimim boyunca Fullstack Developer olarak geliştirme prensiplerini öğrensem de özellikle Backend ve Database konularında kendimi geliştirme fırsatı buldum ve bu alanlar da hem bireysel hem ekip çalışması olarak projeler yaptım. Teknolojiye olan ilgim ve öğrenmeye olan açlığım beni sürekli yeni bilgiler arayışına yönlendiriyor.
 
-🕒Şu an aktif olarak ufak çaplı projelerime devam ediyor ve JavaScript HTML CSS ve C# kullanarak web siteleri geliştiriyorum.
+🕒Şu an, komplike olmayan projelerim üzerinde çalışmaktayım ve web siteleri geliştirmek için JavaScript, HTML, CSS ve C# dillerini kullanıyorum.
 
-⌨Yazılıma ilk başladığım zamanlardan bu yana kendime çok şey katmış olsam da hâlâ bilmediğim birçok şey var ve bu konuları araştırmak, öğrenmek uygulayabilmek şu andaki en büyük tutkum ve hevesim.
+⌨Yazılıma ilk adım attığım günden bu yana birçok konuda yetkinlik kazandım ancak hala öğrenmem gereken birçok detay olduğunun farkındayım. Bu yeni alanları araştırmak, öğrenmek ve pratiğe dökmek benim en büyük tutkum ve motivasyon kaynağım.
 
-🦾Yazılımdan zaman buldukça, bu alanda geliştirilen teknolojileri araştırıp takip ediyorum. Aynı zamanda bilgilerimi taze tutmak adına projeler inceliyor ve  kendimi geliştirmek için bu öğrendiklerimi uygulayarak yeni projeler yapıyorum.
+🦾Boş zamanlarımda, yazılım dünyasında yaşanan gelişmeleri yakından takip ederek kendimi güncel tutmaya çalışıyorum. Projeleri inceleyerek ve öğrendiklerimi uygulayarak kendimi sürekli geliştirmeyi amaçlıyorum.
 
 
 
